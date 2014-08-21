@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Camera</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="get_access_camera_error">Can not get access to camera hardware</string>
+    <string name="getting_access_camera">Getting access to camera</string>
+    <string name="waiting_please">Waiting please...</string>
+    <string name="saving_file_error">Can not save file</string>
+    <string name="picture_saved">Picture saved to %s</string>
+
+    <string-array name="camera_switcher_items">
+        <item>Main</item>
+        <item>Secondary</item>
+    </string-array>
+</resources>
